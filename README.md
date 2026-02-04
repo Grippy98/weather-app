@@ -4,7 +4,7 @@ Simple weather application for the TI Badge that displays current weather condit
 
 ## Features
 
-- Displays current weather for Boston (default)
+- Displays current weather for Dallas (default)
 - Shows temperature, conditions, wind, and humidity
 - Uses wttr.in free weather service
 - Refresh with 'R' key

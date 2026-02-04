@@ -15,7 +15,7 @@ class WeatherApp(app.App):
     def __init__(self):
         super().__init__("Weather")
         self.screen = None
-        self.location = "Boston"  # Default location
+        self.location = "Dallas"  # Default location
         self.weather_label = None
         self.status_label = None
         self.loading = False
